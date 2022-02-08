@@ -1,0 +1,13 @@
+.profile {
+  outline: 1px solid red;
+  padding: 25px;
+  width: 300px;
+}
+
+.avatar {
+  width: 100%;
+  height: 100%;
+}
+/* .description {
+  //
+} */
