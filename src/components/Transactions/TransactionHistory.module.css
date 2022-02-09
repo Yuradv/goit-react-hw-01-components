@@ -1,0 +1,28 @@
+.table {
+  padding: 25px;
+  width: 400px;
+  background-color: white;
+}
+
+.head {
+  text-align: center;
+  height: 40px;
+  color: white;
+  background-color: #30d5c8;
+  outline: 1px solid grey;
+}
+
+.body {
+  text-align: center;
+  outline: 1px solid grey;
+}
+
+.tr {
+  height: 40px;
+  color: #666;
+  text-transform: capitalize;
+}
+
+.tr:nth-child(odd) {
+  background-color: #c7c7bf;
+}

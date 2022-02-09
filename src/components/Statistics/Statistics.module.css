@@ -1,0 +1,29 @@
+.statistics {
+  /* margin-top: 20px; */
+  width: 400px;
+  background-color: #fff;
+}
+
+.title {
+  padding: 25px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #666;
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.item {
+  padding: 20px;
+  background-color: green;
+  color: white;
+  border-right: 1px solid #d3d3d3;
+}
+
+.item:last-child {
+  border-right: none;
+}
